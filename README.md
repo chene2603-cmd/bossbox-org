@@ -78,7 +78,7 @@ bossbox-org/
 
 - GitHub Issues: [问题反馈](https://github.com/bossbox-org/bossbox-core/issues)
 - 微信讨论群: 即将开放
-- 邮箱: 534055736@qq.com
+- 邮箱: 
 
 ## 🌟 Star历史
 
